@@ -35,7 +35,7 @@ export default function Home() {
       alert("Login berhasil")
     } catch (error) {
       console.log(error)
-      alert("Terjadi masalah ketika loading")
+      alert("Terjadi masalah ketika login")
     }}
 
     //"from_origin": "*", "userServer": "cooluruz", "userId": "admin", "userPassword": "admin", "envServer": "dev", "referrer": "bodev.uruz.id" 
